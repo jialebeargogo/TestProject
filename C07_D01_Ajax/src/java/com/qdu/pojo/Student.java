@@ -45,4 +45,8 @@ public class Student {
         return "学号："+stuId+"，姓名："+stuName+"，性别："+stuGender;
     }
     
+    public void sayHello(){
+        System.out.println("hahahaha");
+    }
+    
 }
