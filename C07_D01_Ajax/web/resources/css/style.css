@@ -1,0 +1,63 @@
+body{
+    font-family: 微软雅黑;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    padding: 5px 0;
+}
+
+h2{
+    color: darkgreen;
+    padding: 5px 0;
+}
+
+ul{
+    line-height: 40px;
+    list-style-type: none;
+    padding:10px;
+}
+
+a{
+    color: white;
+    padding: 5px 10px;
+    background-color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: darkred;
+    text-decoration: underline;
+}
+
+p{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h3{
+    padding: 5px 10px;
+    color: brown;
+}
+
+#studentTable{
+    border-spacing: 10px;
+}
+
+#studentTable tr th{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    
+}
+
+#studentTable tr td{
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+    text-align: center;
+}
